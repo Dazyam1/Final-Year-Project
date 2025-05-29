@@ -11,7 +11,6 @@ jedi==0.19.1
 joblib==1.4.2
 kiwisolver==1.4.4
 lz4==4.3.2
-lxml==5.2.1
 matplotlib==3.9.2
 numexpr==2.8.7
 numpy==1.26.4
